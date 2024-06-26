@@ -54,10 +54,10 @@
     }
     ?>
     <form action="" class="form" method="POST">
-        <h1>Sign In</h1>
+        <h1>Sign In</h1> 
         <input type="text" name='username' placeholder="username">
         <input type="password" name="password" placeholder="password">
-        <button>Login</button>
+        <button>Login</button> 
         <a href="signup.php">Don't have an account? open one!</a>
     </form>
 </body>
